@@ -1,5 +1,4 @@
-
-I'm an AI/ML-focused developer passionate about **NLP**, **machine learning evaluation**, and **applied ML systems**.
+Hi, I am Mia! I am currently studying Data Science at Northeastern University. I'm an AI/ML-focused developer passionate about **NLP**, **machine learning evaluation**, and **applied ML systems**.
 
 ### 🔬 Featured Projects
 
