@@ -1,4 +1,3 @@
-## Hey, I'm Mia 👋
 
 I'm an AI/ML-focused developer passionate about **NLP**, **machine learning evaluation**, and **applied ML systems**.
 
