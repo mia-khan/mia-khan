@@ -15,7 +15,4 @@ Hi, I am Mia! I am currently studying Data Science at Northeastern University. I
 **Tools**: Streamlit, FastAPI, Pandas, NumPy, Matplotlib  
 **Data**: SQLite, MongoDB, Redis
 
-### 📫 Let's Connect
-
-Open to opportunities — feel free to reach out through GitHub!
 
