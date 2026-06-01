@@ -1,18 +1,18 @@
-Hi, I am Mia! I am currently studying Data Science at Northeastern University. I'm an AI/ML-focused developer passionate about **NLP**, **machine learning evaluation**, and **applied ML systems**.
+Hi, I'm Mia —  I build and research ML systems with a focus on **NLP**, **deep learning**, and **model training pipelines** — from fine-tuning transformers to studying the theory of transfer learning.
 
-### 🔬 Featured Projects
+### Featured Projects
 
 | Project | What It Does | Key Result |
 |---------|--------------|------------|
-| [**Cooking AI Assistant**](https://github.com/mia-khan/cooking-ai-assistant) | DistilBERT fine-tuned for recipe Q&A + Streamlit demo | 58.4% F1, 5-fold CV, ablation study |
-| [**Buffett Language Models**](https://github.com/mia-khan/buffett-language-models) | Compared n-gram, embedding, and Transformer models on financial text | Perplexity eval, memorization vs. generalization |
-| [**IMDb Sentiment Analysis**](https://github.com/mia-khan/imdb-sentiment-analysis) | Naive Bayes vs. Logistic Regression vs. MLP comparison | 84.5% accuracy (MLP + TF) |
+| [**Cooking AI Assistant**](https://github.com/mia-khan/ml-portfolio/tree/master/cooking-ai-assistant) | Fine-tuned DistilBERT for cooking QA with 5-fold CV, 13-config ablation study, and Streamlit demo | 58.4% F1 — 1,887% over baseline |
+| [**Neural Machine Translation with Attention**](https://github.com/mia-khan/ml-portfolio/tree/master/neural-machine-translation-attention) | Cross-attention, multi-head attention, encoder/decoder self-attention built from scratch in PyTorch | BLEU + BERTScore evaluation |
+| [**Transformer Architectures for Financial LM**](https://github.com/mia-khan/ml-portfolio/tree/master/buffett-language-models) | N-gram vs embedding vs Transformer on Buffett corpus — memorization vs. generalization analysis | Perplexity-based evaluation |
+| [**Transfer Learning & Generalization**](https://github.com/mia-khan/ml-portfolio/tree/master/transfer-learning-generalization) | OLS, Hard Parameter Sharing, and Soft Parameter Sharing estimators + sub-Gaussian concentration validation | Statistical learning theory |
 
-### 🛠️ Skills
+### Skills
 
+**Machine Learning**: PyTorch, scikit-learn, TensorFlow, BERT fine-tuning, transfer learning, model evaluation, cross-validation, hyperparameter optimization  
+**NLP**: Transformers, attention mechanisms, seq2seq, language modeling, BLEU/BERTScore, tokenization, embeddings  
 **Languages**: Python, SQL, JavaScript  
-**ML/DL**: PyTorch, scikit-learn, Transformers, spaCy, NLTK  
-**Tools**: Streamlit, FastAPI, Pandas, NumPy, Matplotlib  
-**Data**: SQLite, MongoDB, Redis
-
-
+**Data & Systems**: MongoDB, Redis, Neo4j, Docker, FastAPI, AWS, GCP  
+**Research**: Experimental design, ablation studies, statistical learning theory, reproducibility
